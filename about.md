@@ -18,7 +18,7 @@ if you're into that kind of thing.
 
 I went to Australia for a while, where I worked building some of the groundwork for an NLP system to help
 connect charities and NGOs with their goals. I'm now back in the UK and working on building machine learning
-pipelines for the predictive analysis of electrocardiogram data. This identifiess at-risk patients before they have a heart attack.
+pipelines for the predictive analysis of electrocardiogram data. This identifies at-risk patients before they have a heart attack.
 
 In my spare time I am a keen chess player, amateur magician, and dungeon master for my D&D group.
 
