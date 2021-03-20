@@ -27,13 +27,13 @@ author:
   location: Antwerp, BE
 
 twitter:
-  username:
+  username: geertarien
 linkedin:
-  username: scottvinay
+  username: geertarien
 github:
-  username:  scottvinay
+  username:  geertarien
 flickr:
-  username: 
+  username: geertarien
 
 google_analytics:
 
@@ -66,6 +66,8 @@ defaults:
 
 # Build settings
 markdown: kramdown
+
+theme: "jekyll-theme-munky"
 
 gems:
   - jekyll-feed
