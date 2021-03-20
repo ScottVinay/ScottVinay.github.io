@@ -13,6 +13,12 @@ text: true
 <figcaption>Id putant impetus quaestio sed, ridens salutatus assentior ei sed.</figcaption>
 </figure>
 
+$\frac{4}{\sqrt{\pi}}$
+
+$a^2 + b^2 = c^2$
+
+--> note that all equations between these tags will not need escaping! 
+
 Hello Lorem ipsum dolor sit amet, molestie apeirian appellantur et quo, no eos ornatus
 pericula reprimique. Eu qui prima intellegat omittantur. Ut pri numquam
 salutatus, tamquam commune vix ne, modus insolens [concludaturque][hello-world]
