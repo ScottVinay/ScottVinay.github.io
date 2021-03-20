@@ -8,6 +8,8 @@ sidebar: true
 text: true
 ---
 
+A tagline for a new blog post.
+
 <figure>
 <img src="/assets/images/logo.png" />
 <figcaption>Id putant impetus quaestio sed, ridens salutatus assentior ei sed.</figcaption>
