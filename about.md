@@ -13,8 +13,7 @@ In particular, I like to combine my passions for research, problem-solving, and 
 
 In my PhD on quantum communication protocols I developed novel methods for the analysis of statistical and security-related questions surrounding new quantum-based cryptography systems. This involved a new protocol for generating absolutely secure
 keys (the most efficient practical proposal at time of publiucation) as well as optimising ways
-of hacking a quantum system, and using thermal noise to defend against those same hackers (playing both sides). There was some cool stuff with complex analysis too so check out my thesis
-if you're into that kind of thing.
+of hacking a quantum system, and using thermal noise to defend against those same hackers (playing both sides). There was some cool stuff with complex analysis too so check out my <a href="/projects/1-thesis">thesis</a> if you're into that kind of thing.
 
 I went to Australia for a while, where I worked building some of the groundwork for an NLP system to help
 connect charities and NGOs with their goals. I'm now back in the UK and working on building machine learning
