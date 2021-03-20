@@ -7,6 +7,10 @@ order: 4
 sidebar: false
 ---
 
+**Download my resume <a href="assets/douments/resume.pdf">here</a>**
+
+Hi! I'm Scott, 
+
 The Munky theme is aimed at portfolio websites. It features a blog, project,
 photography and about page. The theme is customizable through the `_config.yml`
 settings and by changing the sass variables in `_sass\munky.scss`.
