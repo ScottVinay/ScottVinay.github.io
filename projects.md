@@ -1,7 +1,7 @@
 ---
 layout: projects
-title: Projects
-permalink: /projects/
+title: Portfolio
+permalink: /portfolio/
 order: 2
 sidebar: false
 ---
