@@ -28,6 +28,11 @@ egestas pharetra leo amet vel nulla iaculis, cursus lacus consequat a, in ac,
 eget porttitor auctor donec vitae fusce elementum.
 
 <figure>
+<img src="/assets/images/projects/poker_parser/lifetime_bankroll.png" />
+<figcaption>Total bankroll over time. The flatline is not an error, one member just quit the group.</figcaption>
+</figure>
+
+<figure>
 <img src="/assets/images/projects/poker_parser/winnings.png" />
 <figcaption>Wins and losses over a game. We can see who won from whom. Lifetime stats are shown.</figcaption>
 </figure>
