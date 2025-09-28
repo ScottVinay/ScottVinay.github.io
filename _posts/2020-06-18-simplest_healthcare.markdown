@@ -14,7 +14,7 @@ And why AI should support doctors, and not the other way around.
 <img src="/assets/images/posts/simplest_healthcare/skeleton.jpg" />
 </figure>
 
-I recently spotted a new competition on the fantastic website drivendata.org, which is kind of like kaggle for humanitarian causes. The competition provided the results of a questionnaire given to about 26,000+ people at around the time of the bird-flu epidemic, with the aim of trying predict whether or not someone will get a vaccine for the H1N1 bird-flu, and whether they will get a vaccine for the seasonal flu.
+I recently spotted a new competition on the fantastic website drivendata.org, which is sort of like kaggle for humanitarian causes. The competition provided the results of a questionnaire given to about 26,000+ people at around the time of the bird-flu epidemic, with the aim of trying predict whether or not someone will get a vaccine for the H1N1 bird-flu, and whether they will get a vaccine for the seasonal flu.
 
 The questionnaire asks yes/no questions such as “Have you avoided touching your eyes, nose, or mouth?” and “Have you frequently washed your hands or used hand sanitiser?”, as well as opinion questions such as “What is your level of worry of getting sick from taking H1N1 vaccine?” and “What is your opinion about seasonal flu vaccine effectiveness?”, which are rated from 1 to 5.
 
