@@ -51,7 +51,7 @@ Suppose there are four players in a game of poker. The environment vector should
 
 
 <figure>
-<img src="/assets/images/posts/multiplayer/cards_rl_1.png"/>
+<img src="/assets/images/posts/multiplayer/cards_rl_1b.png"/>
 </figure>
 
 This is obviously wrong! We are leaking information that a real agent will not see.
