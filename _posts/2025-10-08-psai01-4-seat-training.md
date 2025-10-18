@@ -15,9 +15,11 @@ General principles learned through real development.
 </figure>
 
 
-This is part 1 in my blog series on reinforcement learning (RL) lessons from my progress on Photosynthesis AI. This is a project I am working on to train RL agents for the board game Photosynthesis. A basic knowledge of RL will be assumed, but I will aim to clarify anything that is a bit more unusual. More details on the algorithm, the project, the custom environment etc, can be found on the project page <a href="{{ '/projects/1.5-Photosynthesis_AI/' | relative_url }}"><strong>HERE</strong></a>. The purpose of this series is to do a bit of a deeper dive into a few design decisions. Some of the ideas here will hopefully be quite instructive for anyone else wanting to build RL algorithms. The aim is to share some of the architectural and algorithmic design choices that arise when adapting single-agent RL frameworks to multiplayer settings.
+This is part 1 in a series exploring lessons learned from my project _Photosynthesis AI_, in which I train reinforcement-learning agents to play the board game Photosynthesis.
 
-Each blog in this series will end with a _design diary_ in which I discuss some of the current challenges in the building of this project.
+I’ll assume a basic familiarity with RL but will clarify anything unusual along the way. More background on the algorithm, the custom environment, and the broader project is available on the <a href="{{ '/projects/1.5-Photosynthesis_AI/' | relative_url }}"><strong>project page</strong></a>.
+
+Each post in this series looks at one design problem in depth. This first entry focuses on how to adapt single-agent RL libraries such as Stable Baselines 3 to multiplayer settings. Every instalment ends with a short design diary discussing current challenges and open questions from the project.
 
 # Problems with training agents for multiplayer games in Gymnasium and Stable Baselines 3
 
